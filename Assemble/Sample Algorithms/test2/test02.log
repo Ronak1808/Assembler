@@ -1,0 +1,13 @@
+            Failed to assemble :(
+
+Error 1: Duplicate Label at Line  4
+Error 2: Expected operand at Line : 7
+Error 3: Unexpected operand at Line 8
+Error 4: Invalid Label Name `0def` at line 10
+Error 5: Bogus Mnemonic `fibble` at line Number : 11
+Error 6: Bogus Mnemonic `0def` at line Number : 12
+Error 7: Undefined label `nonesuch` at line 5
+Error 8: Illegal Number `08ge` at line 6
+Error 9: Illegal Number `5, 6` at line 9
+-----------Warnings-----------
+Warning : Label `label` unused
